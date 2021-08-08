@@ -13,7 +13,7 @@ import os
 def req():
     is_visualize = True
     headers = {"Content-type": "application/json"}
-    image_file = "img/154.jpg"
+    image_file = "img/155.jpeg"
     url = "http://127.0.0.1:8868/predict/ocr_system"
 
     with open(image_file, 'rb') as f:

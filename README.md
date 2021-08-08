@@ -26,4 +26,4 @@ draw boxes and texts!
 The visualized image saved in ./server_results/154.jpg
 ```
 同时，在`server_results`目录下可以看到识别结果的图片`154.jpg`：
-![result](server_results/154.jpg)
+![result](server_results/155.jpeg)
